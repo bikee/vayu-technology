@@ -1,0 +1,15 @@
+{
+  "name": "vayu-technology",
+  "description": "vayu-technology description",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "csvtorandjxh": "^1.0.0",
+    "js2xmlparser": "^3.0.0",
+    "node-json2html": "^1.1.1"
+  }
+}
