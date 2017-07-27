@@ -2,7 +2,7 @@
 //This is the main file where cvstoRandjxh module is called
 var runModule = require('csvtoRandjxh');
 
-//Indcate the beginning of process
+//Indicate the beginning of process
 console.log("Started");
 
 //Invoke function from the module which create pages and display
