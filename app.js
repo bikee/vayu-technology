@@ -1,6 +1,6 @@
 
 //This is the main file where cvstoRandjxh module is called
-var runModule = require('csvtoRandjxh');
+var runModule = require('csvtorandjxh');
 
 //Indicate the beginning of process
 console.log("Started");
